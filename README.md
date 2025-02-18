@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Sam Pope** — a passionate Data and Software Developer always eager to explore new frontiers in AI, Machine Learning, and Data Engineering.
+I'm **Sam Pope** — a passionate Software Developer-turned DevOps and Data Engineer who's always eager to explore new frontiers in AI, Machine Learning, and Data Engineering.
 
 ---
 
@@ -11,6 +11,7 @@ I'm **Sam Pope** — a passionate Data and Software Developer always eager to ex
 
 - 🌱 **Currently Learning**:
   - **Large Language Models (LLMs)**, **MLOps**, **Databricks**, **Hadoop**, and other emerging Data Engineering technologies. 
+  - Best practices in container orchestration using **Docker** and **Kubernetes** for streamlined deployment processes.
   - I’m always open to conversations around these tools — feel free to ask away.
 
 - 📫 **How to Reach Me**:
@@ -26,6 +27,10 @@ I'm **Sam Pope** — a passionate Data and Software Developer always eager to ex
 ![C# Icon](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Icon](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![GCP Icon](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 *(And more... I'm constantly adding new tools to my repertoire!)*
 
