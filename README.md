@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Sam Pope** — a passionate Software Developer-turned DevOps and Data Engineer who's always eager to explore new frontiers in AI, Machine Learning, and Data Engineering.
+I'm **Sam Pope** — a passionate DevOps and Data Engineer who's always eager to explore new frontiers in AI, Machine Learning, and Data Engineering.
 
 ---
 
