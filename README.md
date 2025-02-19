@@ -15,7 +15,7 @@ I'm **Sam Pope** — a passionate Software Developer-turned DevOps and Data Engi
   - I’m always open to conversations around these tools — feel free to ask away.
 
 - 📫 **How to Reach Me**:
-  - Email: [sjpope03@gmail.com](mailto:sjpope03@gmail.com)
+  - Email: [samjacobpope@gmail.com](mailto:samjacobpope@gmail.com)
 
 - 💬 **Ask Me About**:
   - Anything Data-related. I love chatting about data pipelines, cloud solutions, big data platforms, or AI/ML projects.
